@@ -45,7 +45,7 @@
 ### Пример:
 
 ```text
-C:\ZapretUltra\
+C:\Users\%Username%\Desktop
 ```
 
 ---
@@ -71,10 +71,10 @@ C:\ZapretUltra\
 ### Примеры:
 
 ```text
-YouTube.exe
-Discord.exe
-Telegram.exe
-ULTIMATE.exe
+▶️ YouTube zapret.exe
+🎮 Discord Zapret.exe
+📊 Telegram Zapret.exe
+🚀 Старт всех конфигов.exe
 ```
 
 После запуска дождитесь открытия окна консоли.
