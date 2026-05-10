@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_zapret_ulta.png" width="100%" alt="ZAPRET ULTRA Banner">
+  <img src="banner_zapret_ultra.png" width="100%" alt="ZAPRET ULTRA Banner">
 </p>
 
 <h1 align="center"> ZAPRET ULTRA</h1>
